@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Work\\code\\Demos\\android_anim\\CustomLoading-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_loading.xml",
+        "source": "D:\\Work\\code\\Demos\\android_anim\\CustomLoading-master\\app\\src\\main\\res\\drawable\\frame_loading.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\android_anim\\CustomLoading-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clip_loading.xml",
+        "source": "D:\\Work\\code\\Demos\\android_anim\\CustomLoading-master\\app\\src\\main\\res\\drawable\\clip_loading.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\android_anim\\am2\\CustomLoading-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_loading.xml",
+        "source": "D:\\Work\\code\\Demos\\android_anim\\am2\\CustomLoading-master\\app\\src\\main\\res\\drawable\\frame_loading.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\android_anim\\am2\\CustomLoading-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rotate_loading_360.xml",
+        "source": "D:\\Work\\code\\Demos\\android_anim\\am2\\CustomLoading-master\\app\\src\\main\\res\\drawable\\rotate_loading_360.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\android_anim\\am2\\CustomLoading-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clip_loading.xml",
+        "source": "D:\\Work\\code\\Demos\\android_anim\\am2\\CustomLoading-master\\app\\src\\main\\res\\drawable\\clip_loading.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\android_anim\\CustomLoading-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rotate_loading_360.xml",
+        "source": "D:\\Work\\code\\Demos\\android_anim\\CustomLoading-master\\app\\src\\main\\res\\drawable\\rotate_loading_360.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\android_anim\\CustomLoading-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rotate_loading_github.xml",
+        "source": "D:\\Work\\code\\Demos\\android_anim\\CustomLoading-master\\app\\src\\main\\res\\drawable\\rotate_loading_github.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\android_anim\\am2\\CustomLoading-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rotate_loading_github.xml",
+        "source": "D:\\Work\\code\\Demos\\android_anim\\am2\\CustomLoading-master\\app\\src\\main\\res\\drawable\\rotate_loading_github.xml"
+    }
+]

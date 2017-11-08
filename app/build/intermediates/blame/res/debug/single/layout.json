@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Work\\code\\Demos\\android_anim\\CustomLoading-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Work\\code\\Demos\\android_anim\\CustomLoading-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\android_anim\\CustomLoading-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_loading.xml",
+        "source": "D:\\Work\\code\\Demos\\android_anim\\CustomLoading-master\\app\\src\\main\\res\\layout\\custom_loading.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\android_anim\\am2\\CustomLoading-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_loading.xml",
+        "source": "D:\\Work\\code\\Demos\\android_anim\\am2\\CustomLoading-master\\app\\src\\main\\res\\layout\\custom_loading.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\android_anim\\am2\\CustomLoading-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Work\\code\\Demos\\android_anim\\am2\\CustomLoading-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

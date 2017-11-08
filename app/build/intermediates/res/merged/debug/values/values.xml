@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PieProgress"><attr format="color" name="foregroundColor"/><attr format="color" name="backgroundColor"/></declare-styleable>
+    <declare-styleable name="ProgressWheel"><attr format="string" name="text"/><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="color" name="barColor"/><attr format="color" name="rimColor"/><attr format="dimension" name="rimWidth"/><attr format="dimension" name="spinSpeed"/><attr format="integer" name="delayMillis"/><attr format="color" name="circleColor"/><attr format="dimension" name="radius"/><attr format="dimension" name="barWidth"/><attr format="dimension" name="barLength"/></declare-styleable>
+    <dimen name="actionbar_vertival_padding">8dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">CustomLoading</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
